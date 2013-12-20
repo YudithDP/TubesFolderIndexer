@@ -1,0 +1,2 @@
+tubesstrukdat.DoubleLinkedList
+tubesstrukdat.Elemen
